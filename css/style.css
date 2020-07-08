@@ -7,3 +7,6 @@ background-color:silver;
 .carousel-control-next-icon, .carousel-control-prev-icon {
 background-color: silver;
 }
+.card {
+    margin-bottom: 10px;
+}
